@@ -1,0 +1,117 @@
+	body {
+		background-image: url('back.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+	}
+	
+	main {position: relative;}
+	
+	section {height: 100%;}
+	
+	html {scroll-behavior: smooth;}
+	
+	.scroll-top {
+		position: absolute; 
+		top: 120vh; 
+		bottom: 3rem;
+		right: 2rem; 
+	}
+
+	.scroll-top__link {
+		position: -webkit-sticky; 
+		position: sticky;
+		top: 90vh;
+		background-color: #642222;
+		border-style: inset;
+		border-color: gray;
+	}
+	
+	p {
+		text-indent: 50px;
+	}
+	
+	img {
+		height: 60px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		max-width: 100%;
+	}
+	
+	span {
+		vertical-align:middle;
+	}
+	
+	#titlu {
+		float:center;
+		display: inline-block;
+		}
+	#nav {
+		float:right;
+		display: inline-block;
+		margin-right: 15px;
+		}
+		
+	a {
+		text-decoration: none;
+        color: black;
+        font-size: 30px;
+	}
+	
+	a:hover {
+		background-color: #4B1A1A;
+		color: lightgray;
+	}
+	
+	.title {
+		background: rgba(100, 34, 34, 1);
+		font-size: 40px;
+		text-align: center;
+		margin-bottom: 25px;
+		color: black;
+		margin-right: 200px;
+		margin-left: 200px;
+	}
+	
+	.main {
+		background: rgba(160, 160, 160, 0.9);
+		font-size: 20px;
+		text-align: center;
+		color: black;
+		margin: 20px;
+		margin-right: 250px;
+		margin-left: 250px;
+		padding: 5px;
+	}
+	
+	.subtitle {
+		font-size: 20px;
+		text-align: left;
+		margin-bottom: 25px;
+		color: black;
+		padding: 2px;
+		text-decoration-line: underline;
+	}
+	
+	.submain {
+		background: rgba(160, 160, 160, 0.9);
+		font-size: 20px;
+		text-align: left;
+		color: black;
+		margin: 20px;
+		margin-right: 250px;
+		margin-left: 250px;
+		padding: 5px;
+	}
+	
+	.inline {
+		vertical-align:middle;
+		margin-left: 0px;
+		display: inline;
+	}
+	
+	.space {
+		display:inline-block;
+		margin-left:1em;
+	}
