@@ -1,3 +1,3 @@
 # Mecanica
 proiect de atestat competente digitale
-formule bac mecanica
+si teorie bac mecanica
