@@ -1,3 +1,3 @@
 # Mecanica
-proiect de atestat competente digitale
-si teorie bac mecanica
+Proiect de atestat competente digitale.
+Teorie bac mecanica, and more!
